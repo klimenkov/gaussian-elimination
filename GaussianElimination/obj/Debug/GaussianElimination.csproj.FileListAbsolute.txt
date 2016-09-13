@@ -1,6 +1,0 @@
-C:\Users\klimenkov\Desktop\GaussianElimination\GaussianElimination\bin\Debug\GaussianElimination.exe.config
-C:\Users\klimenkov\Desktop\GaussianElimination\GaussianElimination\bin\Debug\GaussianElimination.exe
-C:\Users\klimenkov\Desktop\GaussianElimination\GaussianElimination\bin\Debug\GaussianElimination.pdb
-C:\Users\klimenkov\Desktop\GaussianElimination\GaussianElimination\obj\Debug\GaussianElimination.csprojResolveAssemblyReference.cache
-C:\Users\klimenkov\Desktop\GaussianElimination\GaussianElimination\obj\Debug\GaussianElimination.exe
-C:\Users\klimenkov\Desktop\GaussianElimination\GaussianElimination\obj\Debug\GaussianElimination.pdb
